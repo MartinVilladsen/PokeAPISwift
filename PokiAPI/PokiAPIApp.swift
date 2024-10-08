@@ -1,10 +1,3 @@
-//
-//  PokiAPIApp.swift
-//  PokiAPI
-//
-//  Created by Natasja Knak Villadsen on 18/09/2024.
-//
-
 import SwiftUI
 
 @main
